@@ -49,7 +49,7 @@ Buscando minha **primeira oportunidade como Desenvolvedor Front-end Júnior** pa
 ---
 
 ## 🌐 Live Demo  
-👉 https://wesley-twelve.github.io/pulseone-landing-page/
+👉 https://wesley-twelve.github.io/sky-view/
 
 ---
 
