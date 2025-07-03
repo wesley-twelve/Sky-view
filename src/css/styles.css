@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Ubuntu;
+    font-weight: 100;
+    background-image: url(../img/sky.png);
+    background-size: cover;
+}
+
+.container{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 2rem;
+    border: solid 1px #01293013;
+    box-shadow: 0px 0px 10px 20px #02485f2f;
+}
+
+#logotype{
+    width: 6rem;
+}
+
+.form h3{
+    margin-top: 0;
+}
+
+.color-city{
+    color: #0603c7;
+}
+
+input{
+    font-size: 1rem;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    text-align: center;
+    padding: 0.6rem;
+}
+
+button{
+    font-size: 1.1rem;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    padding: 0.5rem 0.8rem;
+    background-color:#28B4E2;
+    box-shadow: 0px 0px 10px 4px #0603C7;
+}
+
+button:hover{
+    box-shadow: 0px 0px 20px 8px #0603C7;
+}
+
+.fa-location-dot{
+    color: #E04A3A;
+    font-size: 2rem;
+}
+.city-info{
+    margin-right: 2.7rem;
+}
+
+#city{
+    font-size: 2rem;
+    background-color: #07acee;
+    padding: 0 5px;
+    border-radius: 2rem;
+}
+
+#country-icon{
+    width: 2.5rem;
+    position: absolute;
+    margin-left: 1rem;
+}
+
+#temperature{
+    font-size: 3rem;
+    margin: 0;
+}
+
+#description{
+    text-transform: capitalize;
+}
+
+.details-container p{
+    font-size: 1rem;
+}
+
+.fa-droplet{
+    color: #1060F4;
+}
+
+.fa-wind{
+    color: #333;
+}
+
+.hide{
+    display: none;
+}
